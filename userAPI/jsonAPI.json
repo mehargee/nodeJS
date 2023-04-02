@@ -1,0 +1,36 @@
+ [
+      {
+        "id": "1",
+        "type": "books",
+        "attributes": "system",
+          "title": "To Kill a Mockingbird",
+          "author": "Harper Lee",
+          "published": "1960-07-11",
+          "genre": "Southern Gothic",
+          "description": "The story takes place during three years (1933–35)."
+        
+      },
+      {
+        "id": "2",
+        "type": "books",
+        "attributes": "method",
+          "title": "1984",
+          "author": "George Orwell",
+          "published": "1949-06-08",
+          "genre": "Dystopian",
+          "description": "1984 is set in a dystopian future."
+        
+      },
+      {
+        "id": "3",
+        "type": "books",
+        "attributes": "wrote",
+          "title": "Pride and Prejudice",
+          "author": "Jane Austen",
+          "published": "1813-01-28",
+          "genre": "Romance",
+          "description": "Pride and Prejudice follows the life."
+        
+      }
+    ]
+  
